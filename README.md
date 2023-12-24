@@ -1,9 +1,13 @@
 # Correlation and regression for data analysis
+
+# Name : DURGADEVI P
+
+# Register Number : 212223100006
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
-
 
 # Software required :  
 
@@ -29,5 +33,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result :
+
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
 
